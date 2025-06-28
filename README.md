@@ -85,7 +85,7 @@ python telegram_bot.py
 
 ---
 
-## 🤖 Telegram Bot
+## Telegram Bot
 
 - Send `/start` to the bot to trigger username collection  
 - The username is stored in the `TelegramUser` model  
