@@ -1,4 +1,4 @@
-# 📘 Internship Assignment – Backend
+# Internship Assignment – Backend
 
 This project is developed using **Django**, **Django REST Framework**, **Celery**, **Redis**, and the **Telegram Bot API**. It includes secure JWT authentication, public/protected APIs, background task processing, and Telegram user data collection.
 
@@ -21,7 +21,7 @@ This project is developed using **Django**, **Django REST Framework**, **Celery*
 ###  Create virtual environment & install dependencies:
 
 python -m venv venv
-venv\Scripts\activate    # For Windows
+venv\Scripts\activate    
 pip install -r requirements.txt
 
 ##  Running the Project Locally
@@ -67,7 +67,7 @@ python telegram_bot.py
 - Send `/start` to the bot to trigger username collection  
 - The username is stored in the `TelegramUser` model  
 - Accessible via Django admin panel  
-- Built using `python-telegram-bot` (v20+)  
+- Built using `python-telegram-bot` 
 
 ------------------------------------------------------------
 
