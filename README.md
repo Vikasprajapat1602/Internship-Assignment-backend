@@ -1,4 +1,4 @@
-# 📘 Internship Assignment 
+# Internship Assignment 
 
 This project is developed using **Django**, **Django REST Framework**, **Celery**, **Redis**, and the **Telegram Bot API**. It includes secure JWT authentication, public/protected APIs, background task processing, and Telegram user data collection.
 
