@@ -42,7 +42,7 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
-    'rest_framework',  # Django REST Framework for building APIs
+    'rest_framework',  # REST Framework for building APIs
     'api',  # Custom app for API endpoints
 ]
 
