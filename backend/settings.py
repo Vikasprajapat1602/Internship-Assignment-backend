@@ -14,7 +14,7 @@ from pathlib import Path
 
 from decouple import config
 
-# for jwt authentication
+# for JWT authentication
 from datetime import timedelta 
 
 # Build paths inside the project like this: BASE_DIR / 'subdir'.
